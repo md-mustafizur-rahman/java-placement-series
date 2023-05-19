@@ -1,6 +1,6 @@
 # Introduction to Java Programming Language :
 
-[![IMAGE ALT TEXT HERE](0.jpg)](https://www.youtube.com/watch?v=A157KjUedaA)
+[![IMAGE ALT TEXT HERE](Related image/0.jpg)](https://www.youtube.com/watch?v=A157KjUedaA)
 
 ![Alt text](1.jpg)
 ![Alt text](2.jpg)
