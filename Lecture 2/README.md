@@ -1,6 +1,6 @@
 # Why Learning Java is a Must in Today's World :
 
-![Copy of Blue Modern Business YouTube Thumbnail](https://github.com/tigerfiz/java-placement-series/assets/51951413/158283ce-c23b-46ff-af04-cc5a23867715)(https://www.youtube.com/watch?v=A157KjUedaA)
+[![Copy of Blue Modern Business YouTube Thumbnail](https://github.com/tigerfiz/java-placement-series/assets/51951413/158283ce-c23b-46ff-af04-cc5a23867715)](https://www.youtube.com/watch?v=A157KjUedaA)
 
 
 # Here are some popular job search sites where you can find Java software engineer positions:
